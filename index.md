@@ -5,7 +5,7 @@ This is a work in progress web application to help structure the day of unemploy
 The application will help them maintain their unemployment by giving them daily jobs to apply for. It will also help them keep to a schedule and keep track of interviews or other unemployment related activities that they have going on each day. The application will also have an activity tracker to help keep track of jobs applied for, interviews attended or workshops attended to assist with tracking information necessary to request unemployment each week.
 
 
-### User Research
+## User Research
 
 During our research, we were looking for treads on the percentage of people unemployed and the length of time (in weeks) that they're unemployed for.
 
@@ -23,11 +23,11 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 * [Economy at a Glance - Massachusetts](https://www.bls.gov/eag/eag.ma.htm) 
 
 
-### User Flow Version 1
+## User Flow Version 1
 
 <img src="Screens/ReEmplow Flow V1.png" alt="ReEmploy Flow" style="width: 450px;"/>
 
-### Low Fidelity Wireframes
+## Low Fidelity Wireframes
 
 #### Sell Page
 
@@ -42,7 +42,7 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 <img src="Screens/Registration.png" alt="Registration Wireframes" style="width: 450px;"/>
 
 
-### Documentation
+## Documentation
 
 <img src="Screens/Sell Page Documentation.png" alt="Registration Wireframes" style="width: 450px;"/>
 <img src="Screens/Login Documentation.png" alt="Registration Wireframes" style="width: 450px;"/>
