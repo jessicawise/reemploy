@@ -17,10 +17,10 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 
 #### Sources
 
-*[United States Population](http://worldpopulationreview.com/countries/united-states-population/) 
-*[National Employment Monthly Update](http://www.ncsl.org/research/labor-and-employment/national-employment-monthly-update.aspx) 
-*[Unemployment Duration](http://www.deptofnumbers.com/unemployment/duration/) 
-*[Economy at a Glance - Massachusetts](https://www.bls.gov/eag/eag.ma.htm) 
+* [United States Population](http://worldpopulationreview.com/countries/united-states-population/) 
+* [National Employment Monthly Update](http://www.ncsl.org/research/labor-and-employment/national-employment-monthly-update.aspx) 
+* [Unemployment Duration](http://www.deptofnumbers.com/unemployment/duration/) 
+* [Economy at a Glance - Massachusetts](https://www.bls.gov/eag/eag.ma.htm) 
 
 
 ### Low Fidelity Wireframes
