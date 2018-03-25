@@ -31,3 +31,24 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 
 #### Sell Page
 
+<img src="Screens/Sell Page.png" alt="Sell Page Wireframes" style="width: 450px;"/>
+
+#### Login
+
+<img src="Screens/Login.png" alt="Login Wireframes" style="width: 450px;"/>
+
+#### Registration
+
+<img src="Screens/Registration.png" alt="Registration Wireframes" style="width: 450px;"/>
+
+
+### Documentation
+
+<img src="Screens/Sell Page Documentation.png" alt="Registration Wireframes" style="width: 450px;"/>
+<img src="Screens/Login Documentation.png" alt="Registration Wireframes" style="width: 450px;"/>
+<img src="Screens/Register Documentation.png" alt="Registration Wireframes" style="width: 450px;"/>
+
+
+## Work In Progress
+
+This application is a work in progress and will continue to be updated as additional designs are created and steps completed. This page will be updated periodically to show most up to date information. Feel free to check out the GitHub Repo to see full images of the wireframes and documentation!
