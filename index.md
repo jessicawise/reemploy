@@ -25,28 +25,28 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 
 ## User Flow Version 1
 
-<img src="Screens/ReEmplow Flow V1.png" alt="ReEmploy Flow" style="width: 450px;"/>
+<img src="Screens/ReEmplow Flow V1.png" alt="ReEmploy Flow" style="width: 70%;"/>
 
 ## Low Fidelity Wireframes
 
 #### Sell Page
 
-<img src="Screens/Sell Page.png" alt="Sell Page Wireframes" style="width: 450px;"/>
+<img src="Screens/Sell Page.png" alt="Sell Page Wireframes" style="width: 70%;"/>
 
 #### Login
 
-<img src="Screens/Login.png" alt="Login Wireframes" style="width: 450px;"/>
+<img src="Screens/Login.png" alt="Login Wireframes" style="width: 70%;"/>
 
 #### Registration
 
-<img src="Screens/Registration.png" alt="Registration Wireframes" style="width: 450px;"/>
+<img src="Screens/Registration.png" alt="Registration Wireframes" style="width: 70%;"/>
 
 
 ## Documentation
 
-<img src="Screens/Sell Page Documentation.png" alt="Registration Wireframes" style="width: 450px;"/>
-<img src="Screens/Login Documentation.png" alt="Registration Wireframes" style="width: 450px;"/>
-<img src="Screens/Register Documentation.png" alt="Registration Wireframes" style="width: 450px;"/>
+<img src="Screens/Sell Page Documentation.png" alt="Registration Wireframes" style="width: 70%;"/>
+<img src="Screens/Login Documentation.png" alt="Registration Wireframes" style="width: 70%;"/>
+<img src="Screens/Register Documentation.png" alt="Registration Wireframes" style="width: 70%;"/>
 
 
 ## Work In Progress
