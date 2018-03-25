@@ -23,9 +23,9 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 * [Economy at a Glance - Massachusetts](https://www.bls.gov/eag/eag.ma.htm) 
 
 
-### User Flow
+### User Flow Version 1
 
-![ReEmploy User Flow](/Screens/ReEmplow Flow V1.png)
+![ReEmploy User Flow](/Screens/ReEmplow Flow V1.png =450x)
 
 ### Low Fidelity Wireframes
 
