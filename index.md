@@ -7,7 +7,7 @@ The application will help them maintain their unemployment by giving them daily 
 
 ## Work In Progress
 
-This application is a work in progress and will continue to be updated as additional designs are created and steps completed. This page will be updated periodically to show most up to date information. Feel free to check out the <a href= "https://github.com/jessicawise/reemploy">GitHub Repo</a> to see full images of the wireframes and documentation!
+This application is a work in progress and will continue to be updated as additional designs are created and steps completed. This page will be updated periodically to show the most up to date information. Feel free to check out the <a href= "https://github.com/jessicawise/reemploy">GitHub Repo</a> to see full images of the wireframes and documentation!
 
 
 ## User Research
