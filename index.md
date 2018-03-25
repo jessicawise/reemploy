@@ -5,6 +5,11 @@ This is a work in progress web application to help structure the day of unemploy
 The application will help them maintain their unemployment by giving them daily jobs to apply for. It will also help them keep to a schedule and keep track of interviews or other unemployment related activities that they have going on each day. The application will also have an activity tracker to help keep track of jobs applied for, interviews attended or workshops attended to assist with tracking information necessary to request unemployment each week.
 
 
+## Work In Progress
+
+This application is a work in progress and will continue to be updated as additional designs are created and steps completed. This page will be updated periodically to show most up to date information. Feel free to check out the <a href= "https://github.com/jessicawise/reemploy">GitHub Repo</a> to see full images of the wireframes and documentation!
+
+
 ## User Research
 
 During our research, we were looking for treads on the percentage of people unemployed and the length of time (in weeks) that they're unemployed for.
@@ -47,8 +52,3 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 <img src="Screens/Sell Page Documentation.png" alt="Registration Wireframes" style="width: 70%;"/>
 <img src="Screens/Login Documentation.png" alt="Registration Wireframes" style="width: 70%;"/>
 <img src="Screens/Register Documentation.png" alt="Registration Wireframes" style="width: 70%;"/>
-
-
-## Work In Progress
-
-This application is a work in progress and will continue to be updated as additional designs are created and steps completed. This page will be updated periodically to show most up to date information. Feel free to check out the GitHub Repo to see full images of the wireframes and documentation!
