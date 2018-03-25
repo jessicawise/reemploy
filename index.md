@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## ReEmploy Application Design
 
-You can use the [editor on GitHub](https://github.com/jessicawise/jessicawise.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is a work in progress web application to help structure the day of unemployed persons to keep them active and working towards new opportunities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The application will help them maintain their unemployment by giving them daily jobs to apply for. It will also help them keep to a schedule and keep track of interviews or other unemployment related activities that they have going on each day. The application will also have an activity tracker to help keep track of jobs applied for, interviews attended or workshops attended to assist with tracking information necessary to request unemployment each week.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### User Research
 
-```markdown
-Syntax highlighted code block
+During our research, we were looking for treads on the percentage of people unemployed and the length of time (in weeks) that they're unemployed for.
 
-# Header 1
-## Header 2
-### Header 3
+We found that as of Februrary 2018, 4.1% of adult Americans are on unemployment. That equates to approximiately 10 million people who are claiming unemployment. The average amount of time (in weeks) a person claims unemployment as of Februrary 2018 is 22.9 weeks. The median amount of time is 9.3 weeks. We are focused on the median of weeks claiming unemployment because we are interested in the quantity of people unemployed. We also suspect that the values between the third quartile and the maximum are heavily skewing the average. 
 
-- Bulleted
-- List
+For the start of the application, we chose to focus primarily on the state of Massachusetts as it is where we are located. There are plans further down the road to support the application nationwide. With that said, we found that in Massachusetts there are 127,600 unemployed adults. This equates to a 3.5% unemployment rate for the state for Februrary 2018. We were unable to locate information for the state to say how long (time in weeks) an individual claimed unemployment.
 
-1. Numbered
-2. List
+What we realize is that the unemployment rate has dropped nationwide since 2013. This isn't a bad thing for us as the point of the application is not to keep people unemployed. We are looking to help continue to drive down the unemployment rate by catching users who are having trouble finding jobs but are qualified for them. This will overall assist states with the cost of unemployment.
 
-**Bold** and _Italic_ and `Code` text
+#### Sources
 
-[Link](url) and ![Image](src)
-```
+*[United States Population](http://worldpopulationreview.com/countries/united-states-population/)
+*[National Employment Monthly Update](http://www.ncsl.org/research/labor-and-employment/national-employment-monthly-update.aspx)
+*[Unemployment Duration](http://www.deptofnumbers.com/unemployment/duration/)
+*[Economy at a Glance - Massachusetts](https://www.bls.gov/eag/eag.ma.htm)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Low Fidelity Wireframes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jessicawise/jessicawise.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
