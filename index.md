@@ -25,7 +25,7 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 
 ### User Flow Version 1
 
-![ReEmploy User Flow](/Screens/ReEmplow Flow V1.png =450x)
+<img src="Screens/ReEmplow Flow V1.png" alt="ReEmploy Flow" style="width: 450px;"/>
 
 ### Low Fidelity Wireframes
 
