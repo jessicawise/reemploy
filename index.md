@@ -57,4 +57,4 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 ## Low Fidelity Prototype
 
 Check out the start of the prototype on Invision!
-<a href="https://invis.io/PJGGECUM8VB"><img src="invision-logo-square.png" alt="Invision"/></a>
+<a href="https://invis.io/PJGGECUM8VB"><img src="invision-logo-square.png" alt="Invision" style="border:none;text-shadow:none;box-shadow:none;"/></a>
