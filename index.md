@@ -32,20 +32,14 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 
 <img src="Screens/ReEmplow Flow V1.png" alt="ReEmploy Flow" style="width: 70%;"/>
 
-## Low Fidelity Wireframes
+## Wireframe Progress: Low Fidelity to Grayscale High Fidelity
 
-#### Sell Page
+<img src="HighExample/Opportunities Page.png" alt="Low Fidelity Wireframe" style="width: 70%;"/>
 
-<img src="Screens/Sell Page.png" alt="Sell Page Wireframes" style="width: 70%;"/>
+|
+V
 
-#### Login
-
-<img src="Screens/Login.png" alt="Login Wireframes" style="width: 70%;"/>
-
-#### Registration
-
-<img src="Screens/Registration.png" alt="Registration Wireframes" style="width: 70%;"/>
-
+<img src="HighExample/Opportunities Page High.png" alt="High Fidelity Wireframe" style="width: 70%;"/>
 
 ## Documentation
 
