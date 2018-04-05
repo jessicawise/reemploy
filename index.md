@@ -36,8 +36,8 @@ What we realize is that the unemployment rate has dropped nationwide since 2013.
 
 <img src="HighExample/Opportunities Page.png" alt="Low Fidelity Wireframe" style="width: 70%;"/>
 
-<center>|
-<br />V</center>
+<text-align="center"> |
+<br />V</text>
 
 <img src="HighExample/Opportunities Page High.png" alt="High Fidelity Wireframe" style="width: 70%;"/>
 
